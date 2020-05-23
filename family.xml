@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<family>
+<father age="74"> Tilahun Tessema </father>
+<mother age="70"> Aynalem Debela </mother>
+<first son age="55"> Legese </first son>
+<second son age="50"> Adugna
+	<grand son age="5"> Amen </grand son>
+	<grand dougther age="4"> Soliyana </grand dougher>
+ </second son>
+<third son age="45"> Yordi </third son>
+<forth son age="44"> Tomi 
+	<grand doughter age="1"> Abigail </grand doughter>
+</forth son>
+<fifth doughter age="40"> Emu </fifth doughter>
+<sixth doughter age="35"> Beti </sixth doughtet>
+</family>
